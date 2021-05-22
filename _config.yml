@@ -130,3 +130,4 @@ exclude:
 collections:
   posts:
     permalink: '/posts/:title/'
+domain: 'https://festive-sparrow-924d3.netlify.app'
